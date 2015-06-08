@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UIModernArt</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_opt_menu">More Information</string>
+    <string name="dialog_msg">Click below to learn more!</string>
+    <string name="dialog_title">Inspired by the work of Piet Mondrian and Ben Nicholson.</string>
+    <string name="dialog_lbl_btn_visit">Visit MOMA</string>
+    <string name="dialog_lbl_btn_no">Not Now</string>
+
+    <color name="white">#ffffff</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="black">#000000</color>
+
+    <color name="weird_green">#339933</color>
+    <color name="weird_blue">#4495ee</color>
+    <color name="weird_dark_gray">#aabbcc</color>
+    <color name="weird_light_gray">#aacccc</color>
+    <color name="weird_red">#cc4411</color>
+</resources>
